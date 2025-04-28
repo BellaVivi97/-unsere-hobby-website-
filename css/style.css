@@ -1,0 +1,38 @@
+h1 {
+    font-family: "Playwrite RO", cursive;
+    font-optical-sizing: auto;
+    font-weight: 20 %;
+    font-style: normal;
+    color : #006eff;
+  }
+
+  p {
+    font-family: "Delius Swash Caps", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #a200ff;
+  }
+
+  nav {
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  nav {
+    color: #890dee;
+   }
+   a:link {
+    color: #70009c;
+   }
+   a:visited {
+    color: #8b27b3;
+   }
+   a:hover {
+    color: #888a1f;
+   }
+   a:active {
+    color: #320bbe;
+   }
+  
+  
